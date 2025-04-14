@@ -1,5 +1,6 @@
 #ifndef GENERAL_H
 #define GENERAL_H
+#include <iostream>
 
 template <typename T>
 class General
